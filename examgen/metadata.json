@@ -1,0 +1,7 @@
+{
+  "name": "ExamGen",
+  "description": "ExamGen - Automatic question paper generator with customizable subjects, difficulties, question bank, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
